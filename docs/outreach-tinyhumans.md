@@ -1,3 +1,10 @@
+
+
+---
+
+## Status log
+
+- **2026-05-16** — Outreach email sent to Tinyhumans.ai by the project maintainer (@btc710). Awaiting response. Will update this file once we hear back.
 # Outreach to Tinyhumans.ai (draft)
 
 > This file is a **template message** for the AutoClaw maintainer to send manually to Tinyhumans.ai. It is intentionally **not** sent by any automation in this repository.
